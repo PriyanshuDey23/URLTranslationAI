@@ -1,0 +1,7 @@
+langchain_google_genai
+streamlit
+langchain
+langchain-community
+python-dotenv
+beautifulsoup4
+requests
